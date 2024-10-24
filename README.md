@@ -9,8 +9,11 @@
 
 - 📫 How to reach me **nathalyciuldin.let@gmail.com**
 
+- ⚡ Fun fact **I am currently, in addition to studying programming, also a veterinary medicine student with the goal of working in Bioinformatics in the future.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/nciuldin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nciuldin" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
